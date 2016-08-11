@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">DvrAlarm</string>
+    <string name="preference_file_key">com.dvr.dvralarm.PREFERENCE_FILE_KEY</string>
+    <string name="alarm_is_on">ALARM_IS_ON</string>
+    <string name="alarm_hour">ALARM_HOUR</string>
+    <string name="alarm_minute">ALARM_MINUTE</string>
+</resources>

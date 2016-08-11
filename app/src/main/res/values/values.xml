@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <bool name="is_actual">true</bool>
+    <bool name="is_active">false</bool>
+    <integer name="hour">0</integer>
+    <integer name="minute">0</integer>
+    <bool name="sound">true</bool>
+    <bool name="vibration">true</bool>
+    <bool name="week_days">false</bool>
+    <bool name="day1">true</bool>
+    <bool name="day2">true</bool>
+    <bool name="day3">true</bool>
+    <bool name="day4">true</bool>
+    <bool name="day5">true</bool>
+    <bool name="day6">true</bool>
+    <bool name="day7">true</bool>
+</resources>
